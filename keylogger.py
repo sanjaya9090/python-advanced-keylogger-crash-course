@@ -4,9 +4,9 @@
 
 # Libraries
 from email import encoders
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
-from email.mime.base import MIMEBase
+from email.mim.multipart import MIMEMultipart
+from email.mim.text import MIMEText
+from email.mim.base import MIMEBase
 
 import smtplib
 
